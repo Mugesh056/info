@@ -1,0 +1,54 @@
+body{
+    background-color:aquamarine;
+}
+.photo{
+    padding: 25px;
+   
+}
+img{
+    width: 16pc;
+    border-radius: 50%;
+    border-style: double;
+    outline-style: ridge;
+    outline-width: 5px;
+    outline-color: cornflowerblue;
+    
+}
+.para{
+    margin-left: 2.5em;
+}
+.aabut{
+    position: relative;
+    margin:4px 2px;
+    padding: 10px;
+    border: darkkhaki;
+    cursor: pointer;
+    border-radius: 15px;
+    
+}
+.bor{
+    background-color:darkolivegreen;
+    outline-style:double;
+    position: relative;
+    margin-right: 100px;
+    width: 280px; 
+    text-align: center;
+    outline-width: 5px;
+}
+.para{
+    position: relative;
+    margin-bottom: 10px;
+}
+.well{
+    position: relative;
+    margin-left:305px ;
+}
+.pa{
+    outline-style: ridge;
+    background-color: darkolivegreen;
+    outline-color: burlywood;
+    outline-width: 5px;
+   position: relative;
+   margin-right: 600px;
+   
+}

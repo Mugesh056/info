@@ -1,0 +1,20 @@
+img{
+    width: 30%;
+    position: relative;
+    margin-left: 230px;
+}
+.fram{
+    background-color: bisque;
+    outline-style:dashed;
+    outline-color:#7fff00;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+body{
+    background-color: darkcyan;
+}
+.pa{
+    text-align: center;
+
+}

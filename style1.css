@@ -1,0 +1,75 @@
+.intro{
+    padding: 40px;
+    text-align: center;
+    background:darkcyan;
+    color: crimson;
+    font-family:'Times New Roman', Times, serif
+   
+}
+.he{
+    color: #73ad21;
+}
+
+body{
+    background-color:floralwhite ;
+}
+.intro{
+    border-width: 12px;
+    border-radius: 25px;
+    border: 2px solid #73ad21;
+}
+.menu{
+    text-decoration: none;
+    text-align: center;
+    border: 5px solid #527e5a;
+    border-style:groove;
+    padding: 55px;
+    background-color:burlywood;
+    color: rgba(77, 102, 87, 0.897);
+    margin-left: 325px;
+    width: 100px;
+    text-align: center;
+}
+.bt{
+    border:none;
+    color:aliceblue;
+    padding: 4px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    margin: 5px 3px;
+    cursor: pointer;
+}
+.menu a:hover{
+    background-color: beige;
+    color:chocolate;
+}
+.icon{
+    position: relative;
+    margin-left: 345px;
+   
+    word-spacing: 20px;
+    height: 50px;
+}  
+img{
+    width: 20pt;
+}
+.well{
+    position: relative;
+    margin-left:305px ;
+}
+
+
+.count{
+    background-color: darkgray;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+
+}
+@media screen and (max-width: 720px){
+    .column{
+        flex: 50%;
+        max-width: 50%;
+    }
+}

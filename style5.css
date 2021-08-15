@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
+.box{
+    outline-style:double;
+    background-color: wheat;
+    outline-color: black;
+    text-align: center;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 50px;
+    margin-left: 300px;
+    margin-top: 200px;
+}
